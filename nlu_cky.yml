@@ -213,6 +213,151 @@ intent: opt_offline
 intent: where_certificate
    examples:  |
        - where will i recieve my course certifacte after completion?
+intent: Mode_of_class
+   example: 
+       - WHERE DO CODING CLASSES TAKE PLACE?
+       - How To Attend A Live Classes After Taking A Subscription?
+       - The classes will be live or recorded lecture ?
+
+intent: about_mentor
+   example:
+      - what is the educational background of mentors?
+      - do you have any specialization as well?
+      - what education qualifications mentor has?
+      - What are the qualifications of the mentors who would be teaching my kid?
+      
+intent: about_ML
+     example:
+       - what is machine learning?
+       
+ Intent: about_ assessment 
+     example:
+         -How are assessments designed on your platform? 
+         
+ Intent: course_duration
+     Example:
+         - What is the duration of this course ?
+ Intent: courses_offered
+  example:
+         - What all programming courses does your institution offer?
+         
+Intent: course_activities
+   example:
+       - What are the activities in the courses?
+  intent: about_cost
+    example:
+      - what is the cost of A.I course for a year? 
+      - What are the prices of live classes?
+      - What is cost for professional course?
+      - What is cost for 12 months course?
+      - What is cost for starter course?
+      - What is cost for intermediate course?
+      
+intent: scratch_programming 
+  example:
+      - what is Scratch Programming
+      - Which is better Scratch or coding?
+intent: java_python 
+   example:
+      - what is the difference between Java and Pyhton?
+      - is python better than java?
+intent: better_options
+  example:
+      - my daughter opted for science stream after 10th standard, which programming language would be more suitable for her? 
+      - my son opted for science stream after 10th standard, which programming language would be more suitable for him? 
+      - My kid wants to be game developer, which would you recommend? 
+      
+intent: coding_benefits
+  example:
+      - why should my child learn coding even though he does not wish to work in the IT industry in the future? 
+
+intent: Coding_outcome
+  example:
+      - Is it possible for my child to make an app by himself?
+      - How can coding help my daughter for future jobs?
+ intent: setup_requirements
+   example:
+      - what internet speed we should have for sessions
+      - what computer should I buy for my child?
+      - What kind of technical Setup will my child need at Home?
+      - What kind of equipment does my child need to do course?
+      
+intent: issues_doubts
+  example:
+    - what to do if facing net issue
+    - what if my child stuck and have doubts
+    - how can you solve my child's doubt regarding coding course ?
+    
+intent: basic_requirements
+  example: 
+     - What does the kid needs to know for Starter Course?
+     - What should my kid know before learning python?
+     - Is coding for students who are good in Maths?
+     - Is coding good for students who is good in Math?
+intent: course_outcomes
+  example:
+     - What would be outcomes of Starter course?
+     - What would be outcomes of Intermediate course?
+intent: Choosing_righ_Institute 
+   example:
+     - How to Choose the Best Python Coding Classes for Kids Online?
+     
+intent: about_scholarship
+   example:
+      - What is the criteria to get a scholarship? Is there a test?
+ 
+intent: refund_policy
+    example:
+       - What are the refund policies of CKY? 
+       
+intent: About_lab
+   example:
+      - what is Artist Lab?
+
+intent: learning_ability
+   example:
+      - How much time does an 8-10 year old kid takes to learn coding?
+      - Is there any way by which I can learn programming in just 2 months? 
+      
+intent: Fun_activities 
+   example:
+      - what is Dance With Coding?
+      
+intent: coding_interest
+   example:
+      - what should I do to increase my kid's interest towards programming? 
+      
+  
+
+
+
+
+   
+
+
+
+
+      
+      
+      
+      
+      
+      
+
+
+       
+       
+       
+       
+       
+
+
+
+
+
+
+      
+
 
 
 
